@@ -1,0 +1,114 @@
+{
+  "EN": {
+    "confirm_delete": "Confirm Delete",
+    "need_login_to_save_list": "You need to login to save your list.",
+    "products": "Products",
+    "no_products": "No Products found",
+    "no_list": "No list found",
+    "go_back": "Go Back",
+    "loading": "Loading",
+    "loading_list": "Your list is loading",
+    "loading_lists": "Loading your lists",
+    "loading_failed": "Failed to load data",
+    "your_lists": "Your lists",
+    "date": "Date",
+    "total": "Total",
+    "settings": {
+      "title": "Settings",
+      "bttn_title": {
+        "settings": "Settings"
+      },
+      "theme": {
+        "title": "Theme",
+        "light": "Light",
+        "dark": "Dark"
+      },
+      "language": {
+        "title": "Language"
+      },
+      "currency": {
+        "title": "Currency"
+      }
+    },
+    "fields": {
+      "product": "Product name",
+      "company": "Company",
+      "fill_in_all_fields": "Please fill in all fields" 
+    },
+    "buttons": { 
+      "home": "Home",
+      "add_to_list": "Add to list",
+      "clear_list": "Clear list",
+      "save_list": "Save list",
+      "lists": "Lists",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "open": "Open",
+      "legals": "Legals",
+      "edit": "Edit"
+    },
+    "total": "Total",
+    "title": "Sparenzi",
+    "tagline": "Enter the price, product name and brand",
+    "confirm_msgs": {
+      "delete_list": "Are you sure you want to delete the list" 
+    },
+    "lists": {
+      "fields": {
+        "shop_name": "Shop name",
+        "taken_at": "Date",
+        "placeholder_taken_at": "Enter date",
+        "placeholder_shop_name": "Shop name",
+        "currency": "valuta"
+      },
+      "send": "Save",
+      "sending": "Saving",
+      "errors": {
+        "error": "Error",
+        "fill_fields": "Please fill in all fields",
+        "failed_to_update": "Failed to update the list"
+      }
+    },
+    "forms": {
+      "fields": {
+        "price": "Price",
+        "product": "Product",
+        "company": "Company",
+        "action": "Action"
+      },
+      "errors": {
+        "enter_price": "Enter a valid price"
+      }
+    },
+    "auth": {
+      "registration_successful": "Registration successful",
+      "registration_failed": "Registration not successful",
+      "login_successful": "Login successful",
+      "login_failed": "Login failed",
+      "network_error": "Network error. Please check your connection and try again.",
+      "errors": {
+        "missing_email": "Please enter your email",
+        "missing_password": "Please enter your password",
+        "missing_password_confirmation": "Please repeat your password",
+        "password_and_password_confirmation": "Password and password confirmation must be same"
+      },
+      "loging_in": "Starting login...",
+      "fields": {
+        "signup_title": "Signup",
+        "login_title": "Login",
+        "wait": "Please wait",
+        "email": "Email",
+        "placeholder_email": "Enter your email",
+        "password": "Password",
+        "placeholder_password": "Enter your password",
+        "password_confirmation": "Password confirmation",
+        "placeholder_confirmation": "Repeat your password"
+      },
+      "bttn_title": {
+        "login": "Login",
+        "signup": "Signup",
+        "logout": "Logout"
+      }
+    }
+  }
+}

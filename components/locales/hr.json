@@ -1,0 +1,114 @@
+{
+  "HR": {
+    "confirm_delete": "Potvrdite brisanje",
+    "need_login_to_save_list": "Potrebno je logirati se kako bi spremili listu!",
+    "products": "Proizvodi",
+    "no_products": "Nema proizvoda",
+    "no_list": "Nema liste",
+    "go_back": "Povratak",
+    "loading": "Učitavanje",
+    "loading_list": "Tvoja lista se učitava",
+    "loading_lists": "Tvoje liste se učitavaju",
+    "loading_failed": "Učitavanje nije uspojelo",
+    "your_lists": "Tvoje liste",
+    "date": "Datum",
+    "total": "Iznos",
+    "settings": {
+      "title": "Postavke",
+      "bttn_title": {
+        "settings": "Postavke"
+      },
+      "theme": {
+        "title": "Tema",
+        "light": "Svijetla",
+        "dark": "Tamna"
+      },
+      "language": {
+        "title": "Jezik"
+      },
+      "currency": {
+        "title": "Valuta"
+      }
+    },
+    "fields": {
+      "product": "Proizvod",
+      "company": "Tvrtka",
+      "fill_in_all_fields": "Molimo Vas da popunite sve polja." 
+    },
+    "buttons": { 
+      "home": "Home",
+      "add_to_list": "Dodaj na listu",
+      "clear_list": "Očisti listu",
+      "save_list": "Spremi listu",
+      "lists": "Liste",
+      "delete": "Obriši",
+      "cancel": "Odustani",
+      "open": "Otvori",
+      "legals": "Pravno",
+      "edit": "Izmijeni"
+    },
+    "total": "Total",
+    "title": "Sparenzi",
+    "tagline": "Unesite cijenu, proizvod i proizvođača",
+    "confirm_msgs": {
+      "delete_list": "Jeste li sigurni da želite obrisati listu" 
+    },
+    "lists": {
+      "fields": {
+        "shop_name": "Ime trgovine",
+        "taken_at": "Datum",
+        "placeholder_taken_at": "Upišite datum",
+        "placeholder_shop_name": "Ime Trgovine",
+        "currency": "valuta"
+      },
+      "send": "Spremi",
+      "sending": "Spremanje",
+      "errors": {
+        "error": "Greška",
+        "fill_fields": "Popunite polja!",
+        "failed_to_update": "Ažuriranje liste nije uspjelo"
+      }
+    },
+    "forms": {
+      "fields": {
+        "price": "Cijena",
+        "product": "Proizvod",
+        "company": "Tvrtka",
+        "action": "Radnja"
+      },
+      "errors": {
+        "enter_price": "Unesite ispravnu cijenu"
+      }
+    },
+    "auth": {
+      "registration_successful": "Registracija uspješna",
+      "registration_failed": "Registration Failed",
+      "login_successful": "Prijava uspješna",
+      "login_failed": "Prijava nije uspjela",
+      "network_error": "Mrežna pogreška. Provjerite vezu i pokušajte ponovno.",
+      "errors": {
+        "missing_email": "Unesite svoju e-mail adresu",
+        "missing_password": "Unesite svoju lozinku",
+        "missing_password_confirmation": "Ponovite svoju lozinku",
+        "password_and_password_confirmation": "Lozinka i potvrda lozinke moraju biti iste"
+      },
+      "loging_in": "Prijava u tijeku...",
+      "fields": {
+        "signup_title": "Prijava",
+        "login_title": "Login",
+        "wait": "Molimo pričekajte",
+        "email": "E-mail",
+        "placeholder_email": "Unesite svoju e-mail adresu",
+        "password": "Lozinka",
+        "placeholder_password": "Unesite svoju lozinku",
+        "password_confirmation": "Potvrda lozinke",
+        "placeholder_confirmation": "Ponovite svoju lozinku"
+      },
+      "bttn_title": {
+        "login": "Prijava",
+        "signup": "Registracija",
+        "logout": "Odjava"
+      }
+    }
+  }
+}

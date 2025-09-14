@@ -1,0 +1,54 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Expo Application Services (EAS)
+eas.json
+
+# Native build artifacts
+android/
+ios/
+*.keystore
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Firebase / Google Services (can contain project IDs & tokens)
+google-services.json
+GoogleService-Info.plist
+
+# Metro
+.metro-health-check*
+
+# Debug / logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# macOS
+.DS_Store
+
+# Certificates
+*.pem
+
+# Local env files
+.env
+.env.*
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Example / placeholder app configs
+app-example

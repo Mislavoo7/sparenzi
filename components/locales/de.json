@@ -1,0 +1,114 @@
+{
+  "DE": {
+    "confirm_delete": "Löschen bitte bestätigen",
+    "need_login_to_save_list": "Sie müssen sich anmelden um ihre Liste zu speichern.",
+    "products": "Produkte",
+    "no_products": "Keine Produkten",
+    "no_list": "Keine Liste",
+    "go_back": "Zurück",
+    "loading": "Bitte warten",
+    "loading_list": "Deine Liste wird geladen",
+    "loading_lists": "Deine Listen werder geladen",
+    "loading_failed": "Daten konnten nicht geladen werden",
+    "your_lists": "Deine Listen",
+    "date": "Datum",
+    "total": "Summe",
+    "settings": {
+      "title": "Einstellungen",
+      "bttn_title": {
+        "settings": "Einstellungen"
+      },
+      "theme": {
+        "title": "Design",
+        "light": "Hell",
+        "dark": "Dunkel"
+      },
+      "language": {
+        "title": "Sprache"
+      },
+      "currency": {
+        "title": "Währung"
+      }
+    },
+    "fields": {
+      "product": "Produkt",
+      "company": "Firma",
+      "fill_in_all_fields": "Bitte füllen Sie alle Felder aus" 
+    },
+    "buttons": { 
+      "home": "Home",
+      "add_to_list": "Hinzufügen",
+      "clear_list": "Liste leeren",
+      "save_list": "Liste speichern",
+      "lists": "Listen",
+      "delete": "Löschen",
+      "cancel": "Zurück",
+      "open": "Öffnen",
+      "legals": "Rechtliches",
+      "edit": "Bearbeiten"
+    },
+    "total": "Total",
+    "title": "Sparenzi",
+    "tagline": "Geben Sie den Preis, das Produkt und den Hersteller ein",
+    "confirm_msgs": {
+      "delete_list": "Wollen Sie die Liste löschen - " 
+    },
+    "lists": {
+      "fields": {
+        "shop_name": "Geschäftsname",
+        "taken_at": "Datum",
+        "placeholder_taken_at": "Datum eingeben",
+        "placeholder_shop_name": "Geschäftsname",
+        "currency": "Währung"
+      },
+      "send": "Speichern",
+      "sending": "Speichert",
+      "errors": {
+        "error": "Achtung",
+        "fill_fields": "Bitte geben Sie die Daten ein.",
+        "failed_to_update": "Die Liste konnte nicht aktualisiert werden"
+      }
+    },
+    "forms": {
+      "fields": {
+        "price": "Preis",
+        "product": "Produkt",
+        "company": "Firma",
+        "action": "Aktion"
+      },
+      "errors": {
+        "enter_price": "Bitte geben Sie den korrekten Preis ein."
+      }
+    },
+    "auth": {
+      "registration_successful": "Registrierung erfolgreich",
+      "registration_failed": "Registrierung fehlgeschlagen",
+      "login_successful": "Anmeldung erfolgreich",
+      "login_failed": "Fehler bei der Anmeldung",
+      "network_error": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
+      "errors": {
+        "missing_email": "Bitte geben Sie Ihre E-Mail-Adresse ein",
+        "missing_password": "Bitte geben Sie Ihr Passwort ein",
+        "missing_password_confirmation": "Bitte wiederholen Sie Ihr Passwort",
+        "password_and_password_confirmation": "Passwort und Passwortbestätigung müssen übereinstimmen"
+      },
+      "loging_in": "Login wird gestartet...",
+      "fields": {
+        "signup_title": "Registrierung",
+        "login_title": "Anmeldung",
+        "wait": "Bitte warten",
+        "email": "E-Mail",
+        "placeholder_email": "Geben Sie Ihre E-Mail-Adresse ein",
+        "password": "Passwort",
+        "placeholder_password": "Geben Sie Ihr Passwort ein",
+        "password_confirmation": "Passwort bestätigen",
+        "placeholder_confirmation": "Wiederholen Sie Ihr Passwort"
+      },
+      "bttn_title": {
+        "login": "Anmelden",
+        "signup": "Registrieren",
+        "logout": "Ausloggen"
+      }
+    }
+  }
+}
