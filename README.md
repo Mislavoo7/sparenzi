@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+# Sparenzi
+This is an example mobile app, a showcase project. It is a React Native (Expo) application that enables users to track their daily expenses while shopping for groceries. 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Backend
+Sparenzi uses [Sparenzi Web](https://sparenzi.eu/) ([Repository](https://github.com/Mislavoo7/sparenziweb)) as its backend.  
+Sparenzi Web handles user authentication and registration, saving and presenting lists and products, storing user preferences such as language, currency, and theme, and providing access to legal pages.  
 
-## Get started
+The Sparenzi mobile app serves as a simpler and more user-friendly interface for using Sparenzi Web.
 
-1. Install dependencies
+## Features 
 
-   ```bash
-   npm install
-   ```
+### Registration and Login
+Users can register or log in by entering their email and password. If Sparenzi Web determines that the login is valid, it returns a token for further usage.
 
-2. Start the app
+### Adding Products and Lists
+Users can add products without being signed in, but to save them in a list, logging in is required. Once authenticated, users can create, delete, or update lists and manage products within them. All lists and products are stored one the Sparenzi Web platform.
 
-   ```bash
-   npx expo start
-   ```
+### Settings 
+For a better user experience, the mobile app allows users to:  
+- Choose from three languages: Croatian, English, or German.  
+- Select a preferred currency (€ or $). Lists also have their own currency field, so for example, if the user’s default is Euros but they shop in the USA, that specific list can be stored in Dollars.  
+- Switch between a light or dark theme.  
 
-In the output, you'll find options to open the app in a
+### Legal Pages and Web
+The mobile app includes a legal page section where users can read legal documents in Croatian, English, or German without changing their settings. A link to Sparenzi Web is also provided for direct access.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Live
+Sparenzi is not available on the Google Play Store yet. The publishing rules on Google Play are currently a challenge, for example: one requirement is to *"have at least 12 testers opted into your closed test"*. Finding 12 testers has proven to be quite difficult.  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+However, upon request, I can provide access to the app via Expo Go for anyone interested in testing it.
