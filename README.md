@@ -28,3 +28,8 @@ The mobile app includes a legal page section where users can read legal document
 Sparenzi is not available on the Google Play Store yet. The publishing rules on Google Play are currently a challenge, for example: one requirement is to *"have at least 12 testers opted into your closed test"*. Finding 12 testers has proven to be quite difficult.  
 
 However, upon request, I can provide access to the app via Expo Go for anyone interested in testing it.
+
+<img width="1084" height="2412" alt="Screenshot_20250913-223546" src="https://github.com/user-attachments/assets/db8810ab-eb3d-46d2-836e-f8931bc71164" />
+<img width="1084" height="2412" alt="Screenshot_20250913-223535" src="https://github.com/user-attachments/assets/076e381e-b88b-4f91-bab3-e7bd23c72c0f" />
+<img width="1084" height="2412" alt="Screenshot_20250913-223526" src="https://github.com/user-attachments/assets/ff9f9d2a-772b-46b8-bad6-e0091b82fd2f" />
+<img width="1084" height="2412" alt="Screenshot_20250913-223416" src="https://github.com/user-attachments/assets/864b2e80-59c6-4a9a-88fc-ad1d635f7617" />
